@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a passionate web developer always dedicated to learn and experiment with the "latest and (hopefully :pray: ) the greatest" technologies.
+I'm a passionate web developer always dedicated to learn and experiment with the "latest and (hopefully :pray: ) the greatest" technologies.\n
 I have been an Open Source user and lover since 1999.
 In my spare time, I'm trying to learn how to hang ten on my longboard.
 
