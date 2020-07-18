@@ -4,7 +4,7 @@ I'm a passionate web developer always dedicated to learn and experiment with ✨
 I have been an Open Source user and lover since 1999.<br />
 In my spare time, I'm trying to learn how to hang ten on a longboard.<br />
 
-- 🔭 **I’m currently working on:** prototyping an API frontend with Vuejs
+- 🔭 **I’m currently working on:** prototyping an API Front End with Vuejs
 - 🌱 **I’m currently learning:** Vuejs
 
 <!--
