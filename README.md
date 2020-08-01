@@ -1,11 +1,11 @@
 ## :smiley: Hi there 👋
 
 I'm a passionate web developer always dedicated to learn and experiment with ✨the latest and *"hopefully :pray:"* the greatest✨ technologies.<br />
-I have been an Open Source user and lover since 1999.<br />
-In my spare time, I'm trying to learn how to hang ten on a longboard.<br />
+I have been a passionate Open Source user since 1999.<br />
 
 - 🔭 **I’m currently working on:** prototyping an API Front End with Vuejs
 - 🌱 **I’m currently learning:** Vuex
+- ⚡ **Fun fact:** In my spare time, I'm trying to learn how to hang ten on a longboard.
 
 <!--
 Here are some ideas to get you started:
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ ...
 -->
