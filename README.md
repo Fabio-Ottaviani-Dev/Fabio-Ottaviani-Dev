@@ -7,9 +7,15 @@ I have been an Open Source user since 1999.<br />
 - 🌱 **I’m currently learning:** Vuex
 - ⚡ **Fun fact:** In my spare time, I'm trying to learn how to hang ten on a longboard.
 
+<!--
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Fabio-Ottaviani-Dev&show_icons=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-Ottaviani-Dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
+
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -17,4 +23,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
  ...
+ 
 -->
