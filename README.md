@@ -1,7 +1,7 @@
 ## :smiley: Hi there 👋
 
 I'm a passionate web developer always dedicated to learn and experiment with ✨the latest and *"hopefully :pray:"* the greatest✨ technologies.<br />
-I have been an Open Source user since 1999.<br />
+I have been an Open Source advocate since late 90's.<br />
 
 - 🔭 **I’m currently working on:** prototyping an API Front End with Vue 3.0
 - 🌱 **I’m currently learning:**  Vue 3.0
